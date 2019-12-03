@@ -5,3 +5,7 @@ django-admin startproject course_django
 python manage.py help
 
 python manage.py runserver
+
+python manage.py startapp lesson_one
+
+python manage.py migrate
