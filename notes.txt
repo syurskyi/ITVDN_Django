@@ -1,0 +1,7 @@
+pip install django
+
+django-admin startproject course_django
+
+python manage.py help
+
+python manage.py runserver
